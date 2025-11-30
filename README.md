@@ -7,40 +7,35 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=RAAHULAN&fontAlign=50&fontAlignY=40&color=0:ff00ff,100:00ffff&fontColor=ffffff&animation=fadeIn&desc=Embedded%20Systems%20%7C%20Robotics%20%7C%20Automation&descAlignY=75&descAlign=50" alt="header"/>
 
 <!-- ===================================================== -->
-<!-- ============= NEON NAME CARD (SEVEN SEG) ============ -->
+<!-- =============== ROLE LINE UNDER HEADER ============== -->
 <!-- ===================================================== -->
 
-<br/>
-
-<div style="
-  border-radius: 25px;
-  padding: 18px 42px;
-  border: 2px solid #FFD300;
-  box-shadow: 0 0 18px #FFD300, 0 0 35px #FF00FF;
-  display: inline-block;
-  background: radial-gradient(circle at top, #1a1a1a 0, #000000 60%);
-">
-  <span style="
-    font-family: 'DS-Digital', 'Orbitron', monospace;
-    font-size: 46px;
-    color: #FFD300;
-    letter-spacing: 4px;
-  ">
-    RAHULAN.M
-  </span>
-</div>
-
-<!-- Typing effect under the name -->
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3500&pause=800&color=FFD300&center=true&vCenter=true&width=650&lines=Embedded+Systems+Enthusiast;Robotics+%7C+Electronics+%7C+Automation;Turning+circuits+into+life+%26+code+into+robots" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=INSTRUMENTATION+ENGINEER+%7C+EMBEDDED+SYSTEMS+DESIGNER"
+    alt="Instrumentation Engineer | Embedded Systems Designer"
+  />
 </p>
 
 <!-- ===================================================== -->
-<!-- ============ 3D ANIMATED ROBOT BANNER =============== -->
+<!-- ======= NAME IN SEVEN-SEG STYLE WITH ANIMATION ====== -->
 <!-- ===================================================== -->
 
-<!-- Replace the GIF link below with any 3D robot GIF you like -->
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="3D Robot" width="220"/>
+<p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=DS+Digital&size=52&duration=5500&pause=2000&color=FFD300&center=true&vCenter=true&width=600&lines=RAAHULAN.M&background=000000"
+    alt="RAAHULAN.M"
+  />
+</p>
+
+<!-- ===================================================== -->
+<!-- =============== 3D ANIMATED ROBOT GIF =============== -->
+<!-- ===================================================== -->
+
+<p>
+  <!-- You can change this GIF link to any robot GIF you like -->
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="3D Robot" width="220"/>
+</p>
 
 ---
 
@@ -56,7 +51,7 @@
 
 ## 🔗 Connect with Me  
 
-<a href="https://www.linkedin.com/in/raahulan-rk?utm_source=github" target="_blank">
+<a href="https://www.linkedin.com/in/raahulan-rk" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FFD300?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 <a href="https://github.com/Raahulan" target="_blank">
@@ -114,7 +109,6 @@
 
 ## 🐍 Custom Contribution Snake  
 
-<!-- Colors are controlled by your GitHub Action config; this SVG will show them -->
 <img src="https://raw.githubusercontent.com/Raahulan/Raahulan/output/snake.svg" alt="Snake animation" width="100%"/>
 
 ---
