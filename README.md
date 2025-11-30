@@ -1,40 +1,31 @@
 <div align="center">
 
 <!-- ===================================================== -->
-<!-- ========== ANIMATED SVG BACKGROUND HEADER =========== -->
+<!-- =============== DIGITAL NAME BANNER ================== -->
 <!-- ===================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=RAAHULAN&fontAlign=50&fontAlignY=40&color=0:ff00ff,100:00ffff&fontColor=ffffff&animation=fadeIn&desc=Embedded%20Systems%20%7C%20Robotics%20%7C%20Automation&descAlignY=75&descAlign=50" alt="header"/>
-
-<!-- ===================================================== -->
-<!-- =============== ROLE LINE UNDER HEADER ============== -->
-<!-- ===================================================== -->
-
+<!-- Big seven-segment style name, black background, yellow letters, slow typing -->
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=INSTRUMENTATION+ENGINEER+%7C+EMBEDDED+SYSTEMS+DESIGNER"
-    alt="Instrumentation Engineer | Embedded Systems Designer"
-  />
-</p>
-
-<!-- ===================================================== -->
-<!-- ======= NAME IN SEVEN-SEG STYLE WITH ANIMATION ====== -->
-<!-- ===================================================== -->
-
-<p>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=DS+Digital&size=52&duration=5500&pause=2000&color=FFD300&center=true&vCenter=true&width=600&lines=RAAHULAN.M&background=000000"
+    src="https://readme-typing-svg.demolab.com?font=DS+Digital&size=70&duration=6000&pause=2000&color=FFD300&center=true&vCenter=true&repeat=false&width=900&height=120&lines=RAAHULAN.M"
     alt="RAAHULAN.M"
   />
 </p>
 
-<!-- ===================================================== -->
-<!-- =============== 3D ANIMATED ROBOT GIF =============== -->
-<!-- ===================================================== -->
-
+<!-- Role line under name -->
 <p>
-  <!-- You can change this GIF link to any robot GIF you like -->
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="3D Robot" width="220"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=INSTRUMENTATION+ENGINEER+%7C+EMBEDDED+SYSTEMS+DESIGNER"
+    alt="Instrumentation Engineer | Embedded Systems Designer"
+  />
+</p>
+
+<!-- Thin black strip behind (visual separation) -->
+<img src="https://via.placeholder.com/900x4/000000/000000.png" alt="" />
+
+<!-- 3D robot / tech GIF (you can replace link if you want) -->
+<p>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="Robot" width="220"/>
 </p>
 
 ---
@@ -107,7 +98,7 @@
 
 ---
 
-## 🐍 Custom Contribution Snake  
+## 🐍 Contribution Snake  
 
 <img src="https://raw.githubusercontent.com/Raahulan/Raahulan/output/snake.svg" alt="Snake animation" width="100%"/>
 
