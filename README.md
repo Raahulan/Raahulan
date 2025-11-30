@@ -1,26 +1,17 @@
 <div align="center">
 
 <!-- ===================================================== -->
-<!-- =============== DIGITAL NAME BANNER ================== -->
+<!-- ===== DIGITAL BANNER: ROLE ONLY (NO NAME HERE) ====== -->
 <!-- ===================================================== -->
 
-<!-- Big seven-segment style name, black background, yellow letters, slow typing -->
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=DS+Digital&size=70&duration=6000&pause=2000&color=FFD300&center=true&vCenter=true&repeat=false&width=900&height=120&lines=RAAHULAN.M"
-    alt="RAAHULAN.M"
-  />
-</p>
-
-<!-- Role line under name -->
-<p>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=INSTRUMENTATION+ENGINEER+%7C+EMBEDDED+SYSTEMS+DESIGNER"
+    src="https://readme-typing-svg.demolab.com?font=DS+Digital&size=60&duration=6000&pause=2000&color=FFD300&center=true&vCenter=true&width=1100&height=120&lines=INSTRUMENTATION+ENGINEER+%7C+EMBEDDED+SYSTEMS+DESIGNER&background=000000"
     alt="Instrumentation Engineer | Embedded Systems Designer"
   />
 </p>
 
-<!-- Thin black strip behind (visual separation) -->
+<!-- Thin black strip for separation -->
 <img src="https://via.placeholder.com/900x4/000000/000000.png" alt="" />
 
 <!-- 3D robot / tech GIF (you can replace link if you want) -->
