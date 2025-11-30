@@ -1,18 +1,24 @@
 <div align="center">
 
 <!-- ===================================================== -->
-<!-- ===== DIGITAL BANNER: ROLE ONLY (NO NAME HERE) ====== -->
+<!-- ===== DIGITAL BANNER: TWO LINES, THICKER FONT ======= -->
 <!-- ===================================================== -->
 
+<!-- Line 1: INSTRUMENTATION ENGINEER -->
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=DS+Digital&size=60&duration=6000&pause=2000&color=FFD300&center=true&vCenter=true&width=1100&height=120&lines=INSTRUMENTATION+ENGINEER+%7C+EMBEDDED+SYSTEMS+DESIGNER&background=000000"
-    alt="Instrumentation Engineer | Embedded Systems Designer"
+    src="https://readme-typing-svg.demolab.com?font=DS+Digital&size=64&duration=4500&pause=1200&color=FFD300&center=true&vCenter=true&width=900&height=90&lines=INSTRUMENTATION+ENGINEER&background=000000"
+    alt="INSTRUMENTATION ENGINEER"
   />
 </p>
 
-<!-- Thin black strip for separation -->
-<img src="https://via.placeholder.com/900x4/000000/000000.png" alt="" />
+<!-- Line 2: EMBEDDED SYSTEMS DESIGNER -->
+<p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=DS+Digital&size=64&duration=4500&pause=1200&color=FFD300&center=true&vCenter=true&width=900&height=90&lines=EMBEDDED+SYSTEMS+DESIGNER&background=000000"
+    alt="EMBEDDED SYSTEMS DESIGNER"
+  />
+</p>
 
 <!-- 3D robot / tech GIF (you can replace link if you want) -->
 <p>
